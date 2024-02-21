@@ -17,6 +17,6 @@
     "morgan": "~1.6.1",
     "pg-promise": "^4.4.6",
     "serve-favicon": "~2.3.0"
-    "calss-validator": "0.13.2"
+    "class-validator": "0.13.2"
   }
 }
