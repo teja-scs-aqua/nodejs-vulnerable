@@ -17,6 +17,8 @@
     "morgan": "~1.6.1",
     "pg-promise": "^4.4.6",
     "serve-favicon": "~2.3.0"
-    "class-validator": "0.13.2"
+    "class-validator": "0.13.2",
+    "ag-grid-community": "31.3.4",
+    "ag-grid-enterprise": "31.3.4"
   }
 }
